@@ -27,7 +27,7 @@ The application is designed to simulate real-world computer-based testing enviro
 - JavaFX
 - Maven
 - JDBC
-- MySQL
+- SQL
 - CSS
 
 ---
