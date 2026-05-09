@@ -103,13 +103,6 @@ Or run the main application class directly from the IDE.
 
 ---
 
-## Screenshots
-
-### Login Interface
-
-_Add project screenshots here._
-
----
 
 ## License
 
